@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Rodrigo Calle Daza] 👋
 
 ### 🚀 Sobre mí
 - 💻 Actualmente me enfoco en: [ej. Desarrollo Full Stack / Data Science / Mobile]
